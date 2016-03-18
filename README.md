@@ -8,5 +8,5 @@ Adapted from Android Developer Doc at http://developer.android.com/training/arti
 
 Android 4.4.4 | Android 5.1
 ------------- | -------------
-The CA of dplusbook.com is unknown. | The CA of dplusbook.com is known.
+The CA of `dplusbook.com` is unknown. | The CA of `dplusbook.com` is known.
 ![Result on Android 4.4.4](/screenshots/android-4-4-4b.png) | ![Result on Android 5.1](/screenshots/android-5-1b.png)
